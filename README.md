@@ -1,6 +1,12 @@
 # Keli Cheng Boma and Non-Boma Image Chips in Seasonal Sets
 A multi-temporal dataset for Boma. 
+
+
 ## Citation 
+If you use this dataset for academic or research purposes, 
+please cite the following reference:
+
+#### REFERENCE COMING SOON
 
 
 
