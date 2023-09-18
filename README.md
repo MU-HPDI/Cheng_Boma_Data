@@ -1,4 +1,4 @@
-# Keli Cheng Boma and Non-Boma Image Chips in Seasonal Sets
+# Boma and Non-Boma Image Chips in Seasonal Sets
 A multi-temporal dataset for Boma. 
 
 
